@@ -29,7 +29,7 @@ function About() {
         <div className="about-item1">
           <div className='about-item1'>
             <h2 className='rotate-text'>Who am I?</h2>
-            <p>Hello, I’m Nipuni Fernando, Hello, a graduate, UX/UI designer, and creative web developer with a passion for learning and exploring new interactions and designs. </p>
+            <p>Hello, I’m Nipuni Fernando, a graduate, UX/UI designer, and creative web developer with a passion for learning and exploring new interactions and designs. </p>
           </div>
 
         </div>
