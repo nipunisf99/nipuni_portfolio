@@ -29,7 +29,7 @@ function About() {
         <div className="about-item1">
           <div className='about-item1'>
             <h2 className='rotate-text'>Who am I?</h2>
-            <p>I'm a final-year undergraduate, UX/UI designer, and creative web developer with a passion for learning and exploring new interactions and designs. </p>
+            <p>Hello, I’m Nipuni Fernando, Hello, a graduate, UX/UI designer, and creative web developer with a passion for learning and exploring new interactions and designs. </p>
           </div>
 
         </div>
@@ -38,7 +38,8 @@ function About() {
           <img src={aboutProfilePic} alt="Profile Pic" width='50%' />
         </div>
         <div className="about-item3">
-          <p>I'm an IT and Management graduate with a passion that led me to learn HTML & CSS. Over time, I expanded my skills to include UX/UI design, React.js, and more. Currently, I’m focused on exploring minimalistic UI design. I have a deep appreciation for typography and colors and consider myself a versatile UI design generalist. I adapt my design style—whether minimalistic, colorful, typographic, tech-inspired, or elegant—to meet the unique needs of each project, always adhering to core design principles.</p>
+          <p>Currently, I’m learning deeper into the User Experience side of design, focusing on user experience documentation, problem identification, and crafting effective design solutions. My learning journey includes user research, information architecture, mapping user journey, wireframing, and usability analysis, ensuring that every design decision is backed by data and user needs.</p>
+          <p>With a deep appreciation for typography, colors, and design systems, I tailor my approach to suit each project whether clean and minimal, visually striking, content-focused, modern, or sophisticated while staying true to core UX principles.</p>
           <div className="counter-sec d-flex justify-content-center gap-4 mt-5">
             <div className='counter-card d-flex flex-column align-items-center justify-content-start'>
               <div className='counter-icon d-flex align-items-baseline'>
